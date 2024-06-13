@@ -12,3 +12,7 @@ Each player has 3 properties:
 The "health" of the defender will be decreased by any damage the attacker creates that exceeds the damage the defender defends.
 
 When a player's health hits zero, the game is over.
+
+UML Diagram
+
+![Arena Game](https://github.com/Namansaraswat7/ArenaGame/assets/34354967/b8708a7f-0d13-4c4b-b6d0-dde5ee58b7c8)
